@@ -9,7 +9,7 @@ telegramBot: "https://t.me/Ricknova_Trading_Bot",
 whatsapp:    "https://whatsapp.com/channel/0029Vb9XteN6GcGJCijbtO29",
 contact:     "https://wa.me/2348154411519",
 brushx:      "https://rick-labs231.github.io/brushx/",
-brushxApk:   "https://github.com/Rick-labs231/brushx/releases/latest/download/brushx-debug.apk",
+brushxApk:   "https://github.com/Rick-labs231/brushx/releases/latest/download/brushx.apk",
 github:      "https://github.com/Rick-labs231"
 ```
 Empty links show "coming soon" instead of breaking.
